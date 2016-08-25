@@ -1,38 +1,32 @@
-http://spotterlife.com
+# Spotter
 
-Website for Spotter LLC, an application aimed to track fitness progress.
+[Spotter](http://dev.beesdesign.net/spotter) is the launch page for a local startup named Spotter that has a goal to track fitness programs, with their own custom bluetooth device.
 
-1. What's this?
-===============
+# Screenshot
 
-The Liberation Fonts are intended to be open font replacements for the three
-most commonly used fonts on Microsoft systems: Times New Roman, Arial, and
-Courier New.
+<img src="http://i.imgur.com/NxJQsSA.jpg">
 
-2. Usage
-========
+## Getting Started
 
-The fonts should be installed and detected by the system after installation. 
+In order to run this site, you will need a database set up to be able to use all the functions provided. I recommend download Wampserver, and setting up a database and changing the names of the tables/names as you see fit.
 
+You will however be able to use the site and look at the different parts, as the front end is in HTML/CSS/JavaScript
 
-3. License
-==========
+## Built With
 
-Read the GPL v2 file 'COPYING' and the Liberation Fonts EULA file 'License.txt'
-for more information.
+* HTML5/CSS3
+* JavaScript
+* jQuery
+* LAMP Stack
 
-4. Credits
-==========
+## Authors
 
-Special thanks to all liberation-fonts developers and users!
+* **Malik Browne** - *Initial work* - Owner of Bee's Design and creator of this project.
 
- * Caius Chance <cchance at redhat.com>
-   - Current project maintainer.
+## License
 
- * Mark Webbink <mwebbink at redhat.com>
-   - Coordinator.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
- * Steve Matteson
-   - Ascender Corporation <http://www.ascendercorp.com>
+## Acknowledgments
 
- * And, all other contributors.
+* Thanks to Dan Golant for giving me the opportunity to design the launch page!
